@@ -1,4 +1,5 @@
 {
-    "name" : "Testy McTestertons",
-    "DOB" : "1935-03-11"
+    "profile" : {
+        "name" : "Testy McTestertons"
+    }
 }
