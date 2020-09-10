@@ -1,5 +1,11 @@
 {
-    "profile" : {
-        "name" : "Testy McTestertons"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
