@@ -1,4 +1,5 @@
 {
+  "name": "test-json",
   "posts": [
     {
       "id": 1,
