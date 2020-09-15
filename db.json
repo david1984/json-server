@@ -22,7 +22,9 @@
       {"iop":37,"units":"mmHg","method":"GAT","date":"2018-05-24"},
       {"iop":41,"units":"mmHg","method":"GAT","date":"2018-05-24"},
       {"iop":23,"units":"mmHg","method":"GAT","date":"2018-06-09"},
-      {"iop":16,"units":"mmHg","method":"NC","date":"2018-08-23"}
+      {"iop":16,"units":"mmHg","method":"NC","date":"2018-08-23"},
+      {"iop":15,"units":"mmHg","method":"NC","date":"2016-07-03"},
+      {"iop":19,"units":"mmHg","method":"GAT","date":"2016-06-15"}
     ]
   }
 }
