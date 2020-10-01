@@ -24,7 +24,14 @@
       {"iop":23,"units":"mmHg","method":"GAT","date":"2018-06-09"},
       {"iop":16,"units":"mmHg","method":"NC","date":"2018-08-23"},
       {"iop":15,"units":"mmHg","method":"NC","date":"2016-07-03"},
-      {"iop":19,"units":"mmHg","method":"GAT","date":"2016-06-15"}
+      {"iop":19,"units":"mmHg","method":"GAT","date":"2016-06-15"},
+      {"iop":18,"units":"mmHg","method":"GAT","date":"2019-02-13"},
+      {"iop":16,"units":"mmHg","method":"GAT","date":"2019-06-08"},
+      {"iop":15,"units":"mmHg","method":"GAT","date":"2019-09-14"},
+      {"iop":18,"units":"mmHg","method":"GAT","date":"2019-12-23"},
+      {"iop":16,"units":"mmHg","method":"TP","date":"2020-02-16"},
+      {"iop":14,"units":"mmHg","method":"GAT","date":"2020-06-21"},
+      {"iop":17,"units":"mmHg","method":"GAT","date":"2020-09-15"}
     ]
   }
 }
